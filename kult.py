@@ -1,4 +1,4 @@
-from tkinter
+from tkinter import tkinter
 from webbrowser
 import open_new
 
