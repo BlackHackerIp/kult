@@ -1,4 +1,4 @@
-from tkinter import tk
+from Tkinter import *
 from webbrowser import open_new
 
 class Main(Frame):
