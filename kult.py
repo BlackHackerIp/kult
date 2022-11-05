@@ -1,6 +1,5 @@
 from tkinter import tkinter
-from webbrowser
-import open_new
+from webbrowser import open_new
 
 class Main(Frame):
     def __init__(self, root):
