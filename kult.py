@@ -1,4 +1,3 @@
-from tkinter import *
 from webbrowser import open_new
 
 class Main(Frame):
